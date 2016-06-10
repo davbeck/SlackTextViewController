@@ -198,7 +198,7 @@ CGFloat const SLKAutoCompletionViewDefaultHeight = 140.0;
 	}];
 	
 	// when our tabBarController changes we need to update for a possible new bottom margin
-	[self slk_updateViewConstraints];
+//	[self slk_updateViewConstraints];
 }
 
 - (void)viewDidAppear:(BOOL)animated
